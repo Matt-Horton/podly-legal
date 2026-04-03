@@ -1,50 +1,69 @@
 # Privacy Policy
 
-## Overview
+Effective Date: 03/04/2026
 
-This app does not collect, store, process, or share any personal data from users.
+### 1. Introduction
 
-## Data Collection
+Welcome to [Your App Name] ("we", "our", or "us"). We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner.
 
-The app does not collect any personal or non-personal user data.
+This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and related services (collectively, the "Service").
 
-No information is collected through the app, including but not limited to:
-- Names
-- Email addresses
-- Device identifiers
-- Usage data
-- Location data
-- Analytics data
+### 2. Information We Collect
 
-## Purchases and Subscriptions
+We may collect the following types of information:
 
-All purchases and subscriptions are processed by Apple through the App Store.
+a. Personal Information
+Name
+Email address
+Account login details
+b. Usage Data
+Device type and operating system
+App usage statistics
+Log data (e.g., access times, pages viewed)
 
-The app does not have access to:
-- Payment information
-- Billing details
-- Apple ID information
-- Personal identifiers associated with purchases
+### 3. How We Use Your Information
 
-Apple may collect and process data in accordance with its own privacy policy:
-https://www.apple.com/legal/privacy/
+We use your information to:
 
-## Third-Party Data Sharing
+Provide and maintain the Service
+Improve and personalize user experience
+Communicate with you (e.g., updates, support)
+Ensure security and prevent fraud
+Comply with legal obligations
 
-The app does not share any user data with third parties.
+### 4. Sharing Your Information
 
-Because no user data is collected, no data is shared with third parties, and no third parties process data on behalf of the app.
+We may share your information with:
 
-## Data Retention and Deletion
+Service providers (e.g., hosting, analytics)
+Legal authorities if required by law
 
-Because the app does not collect or store any user data, there is no data to retain or delete.
+We do not sell your personal data.
 
-Users do not need to request data deletion, as no personal data is stored by the app.
+### 5. Data Retention
 
-## User Consent and Control
+We retain your data only as long as necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required by law.
 
-The app does not require user consent for data collection because no data is collected.
+### 6. Data Security
 
-If you have questions or concerns about privacy, you may contact us at:
+We implement appropriate technical and organizational measures to protect your data.
 
-info@thepodlyapp.com
+### 7. Your Rights
+
+Depending on your location, you may have the right to:
+
+Access your personal data
+Correct inaccurate data
+Request deletion of your data
+Object to or restrict processing
+Withdraw consent at any time
+
+### 8. Changes to This Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by updating the "Effective Date."
+
+### 9. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+Email: info@thepodlyapp.com
