@@ -4,7 +4,7 @@ Effective Date: 03/04/2026
 
 ### 1. Introduction
 
-Welcome to [Your App Name] ("we", "our", or "us"). We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner.
+Welcome to Podly: Daily Micro Learning ("we", "our", or "us"). We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner.
 
 This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and related services (collectively, the "Service").
 
