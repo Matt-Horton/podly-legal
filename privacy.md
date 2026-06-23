@@ -13,13 +13,13 @@ This Privacy Policy explains how we collect, use, disclose, and safeguard your i
 We may collect the following types of information:
 
 a. Personal Information
-Name
 Email address
 Account login details
 b. Usage Data
 Device type and operating system
 App usage statistics
 Log data (e.g., access times, pages viewed)
+Crash data
 
 ### 3. How We Use Your Information
 
